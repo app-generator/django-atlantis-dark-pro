@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.2] 2021-07-06
+### Improvements
+
+- Highlight the current page in the side menu correctly  
+
 ## [1.0.1] 2021-02-17
 
 - UI: [Jinja Atlantis PRO](https://github.com/app-generator/jinja-atlantis-dark-pro) v1.0.0 - 2021-01-05 Snapshot
