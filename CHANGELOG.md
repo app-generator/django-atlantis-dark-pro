@@ -4,6 +4,6 @@
 ### Changes
 
 - Move to theme-based pattern
-  - [Django Theme Attantis PRO](https://github.com/app-generator/django-admin-atlantis-pro) `v1.0.0`
+  - [Django Theme Atlantis PRO](https://github.com/app-generator/django-admin-atlantis-pro) `v1.0.0`
 - 🚀 `Deployment` 
   - `CI/CD` flow via `Render`
