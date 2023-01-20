@@ -22,6 +22,7 @@ The product is designed to deliver the best possible user experience with highly
 - ✅ `Docker`
 - 🚀 `Deployment` 
   - `CI/CD` flow via `Render`
+  - [Go LIVE - Django Atlantis PRO](https://www.youtube.com/watch?v=M0lA_-6lc-g) - `video presentation`
 
 <br />
 
