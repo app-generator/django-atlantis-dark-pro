@@ -1,12 +1,12 @@
-# [Soft Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/)
+# [Django Atlantis PRO](https://appseed.us/product/atlantis-dark-pro/django/)
 
-**Django** starter styled with **[Soft Dashboard PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)**, a premium `Bootstrap 5` KIT from [Creative-Tim](https://bit.ly/3fKQZaL)
+**Django** starter styled with **[Atlantis Dark PRO](https://appseed.us/product/atlantis-dark-pro/django/)**, a premium `Bootstrap` KIT from `ThemeKita`.
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
-- 👉 [Soft UI Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/) - `Product Page`
-- 👉 [Soft UI Dashboard PRO Django](https://django-soft-dash-pro.onrender.com) - `LIVE Demo`
+- 👉 [Django Atlantis PRO](https://appseed.us/product/atlantis-dark-pro/django/) - `Product Page`
+- 👉 [Django Atlantis PRO](https://django-atlantis-dark-pro.appseed-srv1.com/) - `LIVE Demo`
 - 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br />
@@ -14,7 +14,7 @@ The product is designed to deliver the best possible user experience with highly
 ## Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ `Design`: [Django Theme Soft](https://github.com/app-generator/django-admin-soft-pro) - `PRO Version`
+- ✅ `Design`: [Django Theme Atlantis](https://github.com/app-generator/django-admin-atlantis-pro) - `PRO Version`
 - ✅ `Sections` covered by the design:
   - ✅ **Admin section** (reserved for superusers)
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
@@ -22,11 +22,10 @@ The product is designed to deliver the best possible user experience with highly
 - ✅ `Docker`
 - 🚀 `Deployment` 
   - `CI/CD` flow via `Render`
-  - [Django Soft PRO - Go LIVE](https://www.youtube.com/watch?v=G1OM2L7XK5Y) - `video presentation`  
 
 <br />
 
-![Soft UI Dashboard PRO](https://user-images.githubusercontent.com/51070104/211132481-9a81ef68-42d4-44b3-b7e5-b700a99ef9e0.png)
+![Django Atlantis PRO](https://user-images.githubusercontent.com/51070104/212669274-3eef24b4-7c19-4557-99c5-e24ae5b14a5b.png)
 
 <br />
 
@@ -35,15 +34,15 @@ The product is designed to deliver the best possible user experience with highly
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-soft-ui-dashboard-pro.git
-$ cd django-soft-ui-dashboard-pro
+$ git clone https://github.com/app-generator/django-atlantis-dark-pro.git
+$ cd django-atlantis-dark-pro
 ```
 
 <br />
 
 > Export `GITHUB_TOKEN` in the environment. The value is provided by AppSeed during purchase. 
 
-This is required because the project has a private REPO dependency: `github.com/app-generator/priv-django-admin-soft-pro`
+This is required because the project has a private REPO dependency: `github.com/app-generator/priv-django-admin-atlantis-pro`
 
 ```bash
 $ export GITHUB_TOKEN='TOKEN_HERE'  # for Linux, Mac
@@ -104,21 +103,21 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 ## Screenshots
 
-![Django Admin Soft PRO - Main dashboard page, dark-mode ready.](https://user-images.githubusercontent.com/51070104/211251678-0ff9390a-2035-4cb3-b07d-62fa23f908d3.jpg)
+![Django Admin Atlantis PRO - Main Dashboard Page.](https://user-images.githubusercontent.com/51070104/213626540-300ee6e1-f051-449d-be54-0e8c9e07cd99.jpg)
 
 <br />
 
-> [Django Admin Soft PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/) - `Automotive Page`
+> [Django Admin Atlantis PRO](https://appseed.us/product/atlantis-dark-pro/django/) - `Maps Page`
 
-![Django Admin Soft PRO - Automotive page, premium starter by AppSeed & Creative-Tim.](https://user-images.githubusercontent.com/51070104/211251777-1ea7e1d4-b451-48c5-ad3a-164c58b1700c.jpg)
+![Django Admin Atlantis PRO - Maps Page.](https://user-images.githubusercontent.com/51070104/213626614-0eb12373-f975-406c-a868-058e3cf24df3.jpg)
 
 <br />
 
-> [Django Admin Soft PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/) - `Calendar Page`
+> [Django Admin Atlantis PRO](https://appseed.us/product/atlantis-dark-pro/django/) - `Charts Page`
 
-![Django Admin Soft PRO - Calendar page, premium starter by AppSeed & Creative-Tim](https://user-images.githubusercontent.com/51070104/211251881-748489f7-a6e8-487f-9bd5-c721cc678c88.jpg)
+![Django Admin Atlantis PRO - Charts Page.](https://user-images.githubusercontent.com/51070104/213626717-960c4545-bbce-4372-b7c9-09ea1cd5865d.jpg)
 
 <br />
 
 ---
-**[Django Admin Soft PRO](https://appseed.us/product/soft-ui-dashboard-pro/django/)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
+**[Django Atlantis PRO](https://appseed.us/product/atlantis-dark-pro/django/)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**

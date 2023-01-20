@@ -39,7 +39,7 @@ if RENDER_EXTERNAL_HOSTNAME:
 # Application definition
 
 INSTALLED_APPS = [
-    'admin_soft_pro.apps.AdminSoftProConfig',
+    'admin_atlantis_pro.apps.AdminAtlantisProConfig',
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
